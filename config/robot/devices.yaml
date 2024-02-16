@@ -6,7 +6,7 @@ lms151:
   available_mode: none
 ublox:
   type: gps
-  available_mode: none
+  available_mode: all
 xsens:
   type: imu
-  available_mode: none
+  available_mode: all
