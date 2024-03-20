@@ -119,7 +119,7 @@ repositories:
     version: main
   romea_ros2/demos/tirrex/tirrex_scout_mini:
     type: git
-    url: git@gitlab-ssh.irstea.fr:tirrex/scout_mini.git
+    url: git@gitlab-ssh.irstea.fr:tirrex/romea_projects/scout_mini.git
     version: main
 
   third_party/serial:
